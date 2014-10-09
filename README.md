@@ -1,4 +1,4 @@
-###_Ejercicio de Clases esenciales 2 en java:_						_Alfredo Varela_
+###_Ejercicio de Mysql-Dao en java:_						_Alfredo Varela_
 
 Primero de todo ejecutar los archivos sql que hay en la carpeta (sql) para crear usuario y luego crear la base de datos. 
 
